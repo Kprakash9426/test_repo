@@ -1,0 +1,10 @@
+name: cicd_actions
+on: push
+jobs:
+  cicdactions:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: run python
+        run: pythontest.py
+    

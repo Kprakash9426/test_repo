@@ -10,6 +10,6 @@ print("multiplication")
 d=b*c
 print(d)
 
-
-print(e=c-b)
+e=c-b
+print(e)
 

@@ -11,3 +11,5 @@ d=b*c
 print(d)
 
 
+print(e=c-b)
+
